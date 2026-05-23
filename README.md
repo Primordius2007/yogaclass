@@ -11,15 +11,6 @@ A beautiful, responsive website for **Shuchita Parasher's** daily morning yoga c
 - **Fully responsive** — works on desktop, tablet, and mobile
 - **Google Fonts** — Cormorant Garamond + Inter
 
-## 📋 Class Details
-
-| Detail | Info |
-|--------|------|
-| **Instructor** | Shuchita Parasher |
-| **Certification** | RYT 500 (Advanced Teaching) — Bodhi School of Yoga |
-| **Schedule** | Monday–Friday, 8:30 AM – 9:30 AM |
-| **Contact** | +91 98103 99417 |
-
 ## 🗂️ Project Structure
 
 ```
@@ -41,4 +32,3 @@ The Bodhi School of Yoga is a renowned yoga institution with studios across Indi
 
 ---
 
-*Built with ❤️ for the love of yoga.*
